@@ -5,4 +5,4 @@ wrangle-data : data preparation
 analysis : Generate a bar plot
 
 murders.csv : downloaded murder data
-murders.rda : murder data wrangled in R
+murders.rda : murder data wrangled in Rblablabla
